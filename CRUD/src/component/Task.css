@@ -1,0 +1,32 @@
+th,td{
+    border: 2px solid black;
+}
+
+thead{
+    border: 2px solid black;
+}
+
+.center{
+   
+    width: 500px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    overflow-y: scroll;
+}
+
+/* .second{
+    margin: 0 auto;
+    width: 600px;
+    height: 400px;
+    border: 2px solid black;
+} */
+
+table{
+   margin:20px 5%;
+   
+  
+
+}
